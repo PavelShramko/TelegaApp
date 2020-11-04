@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80969184004",
+    "firebase_url": "https://telegaapp-94810.firebaseio.com",
+    "project_id": "telegaapp-94810",
+    "storage_bucket": "telegaapp-94810.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80969184004:android:a36f88dd3a7ce90e9ed651",
+        "android_client_info": {
+          "package_name": "com.example.telegaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80969184004-9ntdop4666ee8gstpjot7soqkll0qefr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbEzyHRsvnmBJ9hZN_72mwDs140LbLVVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80969184004-9ntdop4666ee8gstpjot7soqkll0qefr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
